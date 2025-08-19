@@ -1,3 +1,4 @@
+setuptools
 backtesting==0.6.4
 hurst==0.0.5
 matplotlib==3.10.5
