@@ -8,7 +8,6 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 import pandas_ta as ta
-import talib 
 import numpy as np
 import datetime as dt
 import plotly.graph_objects as go
