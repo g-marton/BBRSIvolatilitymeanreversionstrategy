@@ -7,7 +7,7 @@ numpy==1.26.3
 plotly==5.24.1
 backtesting==0.6.4
 statsmodels==0.14.4
-scipy==1.13.1
+scipy==1.12.0
 hurst==0.0.5
 seaborn==0.13.2
 matplotlib==3.10.5
